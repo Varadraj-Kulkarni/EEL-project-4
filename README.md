@@ -44,7 +44,6 @@ Sorting Section:
 Bubble Sort is used to compare two students’ percentiles and swap them if needed.
 Display Section:
 After sorting, data is printed in a tabular format with columns for ID, Name, and Percentile.
-Formatting symbols like %-10s and %-10d are used to align output neatly.
 This program uses basic concepts only — no pointers, arrays of strings, or dynamic memory. It is fully beginner-level and focuses on logic and syntax clarity.
 
 
